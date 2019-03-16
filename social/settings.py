@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'social.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'socials',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',
-        'PORT': ''
+        'NAME': 'd8dp60mf8s1qic',
+        'USER': 'mqwjbakaablzbd',
+        'PASSWORD': '757609fd6f16ab4e4c02225f76b0776063c75d868dcbf3fb299c005339ef5e8f',
+        'HOST': 'ec2-23-23-195-205.compute-1.amazonaws.com',
+        'PORT': '5432'
     }
 }
 
